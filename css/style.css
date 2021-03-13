@@ -26,6 +26,7 @@ html {
 #mars{
   color:#a74808;
 }
-.table{
-  
+table, th, td{
+  border-collapse: collapse;
+  border: 1px solid white;
 }
